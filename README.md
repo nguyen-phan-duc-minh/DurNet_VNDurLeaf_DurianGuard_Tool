@@ -1,5 +1,8 @@
 # Durian Disease Detection App
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 ## Ứng dụng AI phát hiện bệnh trên lá cây sầu riêng
 
 Hệ thống thông minh sử dụng Deep Learning để phát hiện và phân loại các bệnh phổ biến trên lá cây sầu riêng, giúp nông dân chẩn đoán sớm và điều trị hiệu quả.
